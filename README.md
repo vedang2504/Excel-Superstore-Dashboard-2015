@@ -49,4 +49,4 @@ Superstore Sales (US, 2015)
 **Vedang Doley**  
 Data Science & Analytics Enthusiast  
 📍 India  
-🔗 LinkedIn profile: *[Add your link here]*  
+🔗 LinkedIn profile: *https://www.linkedin.com/in/vedang-doley-5a7b4b265/*  
